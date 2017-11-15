@@ -1,0 +1,31 @@
+lat	lng
+Warriors	37.48	-122.15
+Magic	28.54	-81.38
+Celtics	42.21	-71.03
+Trail Blazers	45.31	-122.4
+Mavericks	32.46	-96.47
+Nuggets	39.45	-104.52
+Pistons	42.19	-82.2
+Raptors	43.39	-79.23
+Thunder	35.28	-97.32
+Suns	33.27	-112.04
+76ers	39.57	-75.1
+Wizards	38.54	-77
+Cavaliers	41.28	-81.4
+Clippers	34.03	-118.15
+Lakers	34.03	-118.15
+Heat	25.46	-80.12
+Grizzlies	35.07	-89.58
+Bucks	43.05	-87.95
+Timberwolves	44.59	-93.16
+Knicks	40.42	-74
+Nets	40.42	-74
+Kings	38.33	-121.28
+Spurs	29.25	-98.3
+Hornets	35.13	-80.5
+Pelicans	29.57	-90.4
+Rockets	29.45	-95.22
+Hawks	33.45	-84.23
+Jazz	40.45	-111.53
+Pacers	39.79	-86.15
+Bulls	41.5	-87.41

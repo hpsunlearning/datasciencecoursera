@@ -1,0 +1,24 @@
+---
+title: "mapsite"
+author: "HPSUN"
+date: "2017-11-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I'd like to plot all NBA teams on the map  
+but the icon is a little complicate  
+I'll leave it later
+```{r}
+library(leaflet)
+#library(maps)
+coord <- read.table("coord.txt",sep="\t",header=T)
+m <- leaflet()
+m <- setView(m,lng=-100,lat=38,zoom=3)
+m <- addTiles(m)
+addCircleMarkers(m,lng=coord$lng,lat=coord$lat)
+
+```
